@@ -1,4 +1,4 @@
-print("Wellcome to GeoEstate Seller")
+print("Welcome to GeoEstate Seller")
 
 def halaman_utama():
     properti = []
