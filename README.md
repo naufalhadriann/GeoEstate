@@ -3,9 +3,9 @@ Menjadi platform jual beli real estate terdepan guna membantu setiap orang menem
 
 Dengan anggota:
 
-Berlianda Muhammad Putra (2502362)
-Adi Surya Nugroho (2505922)
-Muhammad Azzuri Sulthan Aulia Wahab (2507230)
-Mohammad Ferdiansyah (2502841)
-Rizky Aryo Putro Prasetyo (2509694)
-Muhammad Naufal Hadrian (2510128)
+1. Berlianda Muhammad Putra (2502362)
+2. Adi Surya Nugroho (2505922)
+3. Muhammad Azzuri Sulthan Aulia Wahab (2507230)
+4. Mohammad Ferdiansyah (2502841)
+5. Rizky Aryo Putro Prasetyo (2509694)
+6. Muhammad Naufal Hadrian (2510128)
