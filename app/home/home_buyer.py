@@ -2,7 +2,6 @@ from app.home.about import about
 from app.home.profile import profile
 from app.home.properties import lihat_properti
 from app.home.help import bantuan
-from app.features.wishlist import tambah_ke_wishlist, cek_status_love
 
 def home_buyer(username):
     while True:
